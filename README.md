@@ -1,2 +1,2 @@
-# MEAN_Stack_Challenges
+# Challenges
  
